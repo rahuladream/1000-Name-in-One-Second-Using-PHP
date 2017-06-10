@@ -1,0 +1,24 @@
+INSTALLATION INSTRUCTION
+
+/*************************************** <br/>
+ HINDI NAME GENERATOR <br/>
+ Version: 1.0<br/>
+ AUTHOR: Rahul Singh<br/>
+ DATE: 09.06.2017<br/>
+ DETAILS: GENERATE MILLIONS OF UNIQUE NAME IN ONE CLICK <br/>
+***************************************/
+
+
+* CREATE A DATABASE NAME INDIAN-NAME-GENERATOR OR CREATE WITH ANY NAME AND CHANGE INTO **class.config.php**
+
+* BROWSE DATABASE FOLDER 
+
+* IMPORT THE $$ indian-name-generator.sql $$ FILE INTO THE DATABASE.
+
+* CHECK THE CONNECTIVITY
+
+* START GENERATING NAME
+
+* ENJOY THE APPSS
+
+* THANKS

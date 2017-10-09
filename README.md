@@ -1,4 +1,4 @@
-INSTALLATION INSTRUCTION
+# INSTALLATION INSTRUCTION
 
 /*************************************** <br/>
  HINDI NAME GENERATOR <br/>
